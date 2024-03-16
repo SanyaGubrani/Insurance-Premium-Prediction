@@ -12,7 +12,6 @@ The dataset used in this project was obtained from Kaggle and can be found [here
 - **Feature Engineering**: Implemented feature engineering techniques to extract meaningful insights from the data and prepare it for modeling.
 - **Model Building**: Developed predictive models using Polynomial Regression, Decision Tree Regression, and Random Forest Regression to forecast medical expenses.
 - **Evaluation Metrics**: Assessed model performance using R-squared scores and Root Mean Squared Error (RMSE) to gauge accuracy and precision.
-- **Conclusion**: Drew conclusions from the analysis and discussed the implications for insurance providers in optimizing risk assessment and cost management.
 
 ## Tools and Libraries
 - **Python**: Utilized Python programming language for data analysis, preprocessing, and modeling.
